@@ -1,0 +1,189 @@
+.offerdiv{
+    background-image: linear-gradient( to right, #000 40%, transparent 58% ), url(https://m.media-amazon.com/images/G/31/AmazonVideo/2019/MLP.jpg);
+    background-position: right top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #000;
+    /* background-image: url(https://m.media-amazon.com/images/G/31/AmazonVideo/2019/MLP.jpg); */
+    display: flex;
+    padding: 50px 6%;
+    margin-top: 65px;
+}
+.leftbox{
+    height: 370px;
+    width: 50%;
+
+}
+.rightbox{
+    height: 370px;
+    width: 50%;
+
+}
+.lefthead{
+    color: white;
+    font-size: 2.7rem;
+    line-height: 3.1rem;
+    font-weight: 350;
+    /* font-family: "Amazon Ember"; */
+    -webkit-font-smoothing: antialiased;
+    text-align: left;
+}
+.leftmidsidepara{
+    color: white;
+    font-size: 1.5rem;
+    line-height: 1.8rem;
+    text-align: left;
+    font-weight: 180;
+    
+}
+.mybutton{
+    color: #fff !important;
+    background-color: #1288c3;
+    
+    
+    border-radius: 3px;
+    font-size: 17px;
+     
+   
+  
+  
+   
+    text-rendering: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+   
+    align-items: flex-start;
+    box-sizing: border-box;
+    font: inherit;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #d8d8d8 #d1d1d1 #bababa;
+    
+    padding: 14px 20px;
+    border: none;
+    vertical-align: top;
+    border-radius: 3px;
+    font-size: 17px;
+    line-height: 20px;
+    transition: all .2s ease-out;
+    display: inline-block;
+    cursor: pointer;
+    
+    align-items:left;
+    text-align: center;
+    
+}
+.leftsmallpara{
+    color: white;
+    text-align: left;
+    font-size: 0.9rem;
+    margin: 12px 0 0;
+    font-weight: 200;
+}
+
+.offerdiv2{
+    background-image: linear-gradient( to right, #000 40%, transparent 58% ), url(https://m.media-amazon.com/images/G/31/AmazonVideo/2021/X-site/MLP/TVOD/Prime-Video---1440-x-675-New.jpg);
+    background-position: right top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #000;
+
+    display: flex;
+    padding: 50px 6%;
+    padding-bottom: 61px;
+
+
+}
+.div3{
+    background-color: white;
+    height: 480px;
+    display: flex;
+    padding: 0px 0%;
+    
+}
+.leftbox3{
+    /* border: 2px solid red; */
+    margin: 20px 1% 30px 3%;
+    height: 350px;
+    width: 45%;
+
+}
+.rightbox3{
+    /* border: 2px solid red; */
+    margin: 20px 4% 30px 1%;
+    height: 350px;
+    width: 47%;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(3,1fr);
+    grid-gap: 7px;
+
+}
+
+.box3h1{
+    font-size: 2.7rem;
+    font-weight: 360;
+    line-height: 3.1rem;
+    text-align: left;
+    display: block;
+  
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    
+}
+.box3p{
+    text-align: left;
+    font-size: 1.5rem;
+    line-height: 1.8rem;
+    font-weight: 340;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    width: 93%;
+}
+.myimgin9{
+    width: 100%;
+    height: 100%;
+    transition: box-shadow 0.2s ease-in-out;
+    
+}
+.myimgin9:hover{
+    /* border: 2px solid rgb(0, 0, 0); */
+    box-shadow: rgba(0, 0, 0, 2.4) 0px 2px 4px, rgba(0, 0, 0, 2.3) 3px 7px 13px -1px, rgba(0, 0, 0, 2.2) 3px -3px 0px inset;
+}
+
+.offerdiv4{
+   
+        background-image: linear-gradient( to left, #000 40%, transparent 58% ), url(https://images-na.ssl-images-amazon.com/images/G/01/digital/video/Magellan_MLP/MLP_Template_Image_Left.jpg);
+        background-position: right top;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-color: #000;
+    
+        display: flex;
+        padding: 50px 6%;
+        padding-bottom: 61px;
+        padding-bottom: 90px;
+    
+    
+    
+}
+
+.offerdiv5{
+    background-image: linear-gradient( to right, #000 40%, transparent 58% ), url(https://m.media-amazon.com/images/G/01/digital/video/Magellan_MLP/IN-kids-30Jan._CB1517304519_.jpg);
+    background-position: right top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #000;
+
+    display: flex;
+    padding: 50px 6%;
+    padding-bottom: 63px;
+
+
+}
+

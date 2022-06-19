@@ -1,0 +1,58 @@
+.mycontainer{
+    width: 24%;
+    border: 1px solid rgba(155, 155, 155, 0.56);
+    margin: 20px 36%;
+    height: 490px;
+    padding: 0% 2%;
+   
+
+}
+.mycontainer *{
+    text-align: left;
+}
+
+.mycontainer h1{
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 1.2;
+}
+.form-control{
+    padding: 5px;
+    width: 100%;
+}
+.label{
+    display: block;
+    padding-left: 2px;
+    padding-bottom: 2px;
+    font-weight: 550;
+    font-size: 14px;
+}
+.myyellowbutton{
+    color: black;
+    background: #f0c14b;
+    border-color: #a88734 #9c7e31 #846a29;
+    background: linear-gradient(to bottom,#f7dfa5,#f0c14b);
+    border: none;
+    width: 100%;
+    padding: 10px 10px 10px 0px; 
+    margin: 20px 0px;
+    border-radius: 5px;
+    border: 1px solid black;
+    text-align: center;
+
+    
+}
+
+.mygraybutton{
+    color: black;
+    background: #faf6f6;
+    border-color: #9c9999 #cdcdcd #dddad2;
+    /* background: linear-gradient(to bottom,#f7dfa5,#f0c14b); */
+    border: none;
+    width: 100%;
+    padding: 10px 10px 10px 0px; 
+    margin: 20px 0px;
+    border-radius: 5px;
+    border: 1px solid black;
+    text-align: center;
+}

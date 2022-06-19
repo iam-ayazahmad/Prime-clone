@@ -12,8 +12,8 @@ export const Navbar=()=>{
                 <Link className="navlinks" to="/">Home</Link>
                 <Link className="navlinks" to="/Store">Store</Link>
                 <Link className="navlinks" to="/Channel">Channels</Link>
-                <Link className="navlinks" to="/Channel">Categories</Link>
-                <Link className="navlinks" to="/Channel">Stuff</Link>
+                <Link className="navlinks" to="/">Categories</Link>
+                <Link className="navlinks" to="/">Stuff</Link>
                 
                 <div className="midspace"></div>
 
@@ -25,7 +25,10 @@ export const Navbar=()=>{
                 <input placeholder="Search" className="navinput" type="text" />
                 </div>}
 
-                <button className="mybutton">SignIn</button>
+                <Link style={{marginLeft:"7%"}} className="navlink" to="/Login"><button style={{marginLeft:"7%"}} className="mybutton">SignIn</button></Link>
+
+
+                
                 
                  </div>
         </div>
